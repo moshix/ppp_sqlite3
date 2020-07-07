@@ -1,4 +1,4 @@
-mport sqlite3
+import sqlite3
 import  sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
